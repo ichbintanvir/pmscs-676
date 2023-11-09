@@ -89,6 +89,24 @@ const list = [
         question: 'Compare Huffman code and lampelziv code.',
         slide: '85'
     },
+    {
+        Lecture: '5',
+        question_no: '8',
+        question: 'Defind Brigthness, Contrast, Hue, Saturation',
+        slide: 'JPEG 8-9'
+    },
+    {
+        Lecture: '5',
+        question_no: '9',
+        question: 'What is the goal of image compression',
+        slide: 'JPEG 12'
+    },
+    {
+        Lecture: '5',
+        question_no: '10',
+        question: 'Compare lossless and Lossy compression.',
+        slide: 'JPEG 13'
+    },
 ];
 
 const questions = document.getElementById('questions');
